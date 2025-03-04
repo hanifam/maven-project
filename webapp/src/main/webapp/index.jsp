@@ -76,7 +76,7 @@ Example
     />
     <br />
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input
       type="text"
       placeholder="Enter Email"
